@@ -510,6 +510,10 @@ progress::-moz-progress-value {
     padding: 2rem 1rem;
 }
 
+.section-acerca {
+    padding: 3rem 1rem;
+}
+
 .section-altura-modal {
     padding: 5rem 1rem;
 }
@@ -706,6 +710,12 @@ progress::-moz-progress-value {
     margin-bottom: 1.25rem;
 }
 
+.service-card img {
+    margin-bottom: 1.25rem;
+    width: 24px;
+    height: 24px;
+}
+
 .social-media a {
     padding: 0px .4rem;
     text-decoration: none;
@@ -770,7 +780,7 @@ progress::-moz-progress-value {
     }
 
     .footer {
-        margin-bottom: 0px;
+        margin-bottom: 0px;   
     }
 
     .header {
@@ -786,6 +796,10 @@ progress::-moz-progress-value {
 
     .portfolio .section-title {
         grid-column: span 3;
+    }
+
+    .section-acerca {
+        padding: 4rem 1rem;
     }
 
     .services > .container {
